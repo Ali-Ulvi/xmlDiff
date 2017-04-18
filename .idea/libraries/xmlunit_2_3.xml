@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="xmlunit-2.3">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/xmlunit-2.3.0" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/lib/xmlunit-2.3.0/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/xmlunit-2.3.0" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/xmlunit-2.3.0" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/xmlunit-2.3.0" recursive="false" type="SOURCES" />
+  </library>
+</component>
